@@ -115,7 +115,7 @@ The primary objective of this project is to showcase SQL proficiency through com
 - Customer behavior
 - Sales trends
 - Payment and shipping analysis
-- Forecasting and product performance
+- Product performance
   
 
 ## **Identifying Business Problems**
